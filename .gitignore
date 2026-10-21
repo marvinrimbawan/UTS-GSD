@@ -1,0 +1,9 @@
+   myenv/
+   .venv/
+   archive/
+   tes.ipynb
+   tes.py
+   *.pdf
+   *.xlsx
+   __pycache__/
+   .ipynb_checkpoints/
